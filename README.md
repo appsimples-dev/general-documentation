@@ -1,1 +1,1 @@
-# gerenal-documentation
+# general-documentation
